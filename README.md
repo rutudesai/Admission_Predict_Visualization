@@ -1,10 +1,10 @@
 # Admission_Predict_Visualization
 Different Charts and Plots to show visualizations for Admission Predict Dataset
 
-Context
+Context:
 This dataset is created for prediction of Graduate Admissions from an Indian perspective.
 
-Content
+Content:
 The dataset contains several parameters which are considered important during the application for Masters Programs.
 The parameters included are :
 
@@ -19,10 +19,10 @@ Acknowledgements
 This dataset is inspired by the UCLA Graduate Dataset. The test scores and GPA are in the older format.
 The dataset is owned by Mohan S Acharya.
 
-Inspiration
+Inspiration:
 This dataset was built with the purpose of helping students in shortlisting universities with their profiles. The predicted output gives them a fair idea about their chances for a particular university.
 
-Citation
+Citation:
 Please cite the following if you are interested in using the dataset :
 Mohan S Acharya, Asfia Armaan, Aneeta S Antony : A Comparison of Regression Models for Prediction of Graduate Admissions, IEEE International Conference on Computational Intelligence in Data Science 2019
 
